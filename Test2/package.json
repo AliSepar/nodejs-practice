@@ -1,0 +1,17 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "A test app to practice NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Alisabah Separ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
